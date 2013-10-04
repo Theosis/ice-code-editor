@@ -9,7 +9,8 @@ homepage: https://github.com/eee-c/ice-code-editor
 dependencies:
   crypto: any
   js: any
-  unittest: any
   ctrl_alt_foo: any
   json: any
-  polymer: any
+  polymer: {path: /home/chris/repos/dart/dart/pkg/polymer}
+dev_dependencies:
+  unittest: any
