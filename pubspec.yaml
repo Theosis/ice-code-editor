@@ -13,4 +13,4 @@ dependencies:
   json: any
   polymer: {path: /home/chris/repos/dart/dart/pkg/polymer}
 dev_dependencies:
-  unittest: any
+  scheduled_test: any
